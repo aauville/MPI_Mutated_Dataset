@@ -1,4 +1,4 @@
-# MPI_Mutated_Dataset
+# MPI Mutated Dataset (MMD)
 
 Dataset and code for the paper "Harnessing MPI mutations for AI error detection".
 
