@@ -8,7 +8,7 @@ This repository is published as part of the publication:  A Machine-Learning Ap
 
 - LLM: contains prompts used in the paper to evaluate Qwen-3 and Claude
 - Scraping: contains the script used to collect the files used for mutation
-- Codes: contains codes directly collected from github and their mutants (only those for which we have a license allowing us to distribute them)
+- Codes: contains codes directly collected from github and their mutants (only those for which we have a license allowing us to distribute them), as well as ATTRIBUTION.md which contains the license information.
 
 The repository will be progressively populated with the data used in the submission in respect to the repositories copyright. 
 
